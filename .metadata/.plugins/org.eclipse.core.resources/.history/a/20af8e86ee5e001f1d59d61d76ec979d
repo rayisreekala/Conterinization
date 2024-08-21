@@ -1,0 +1,10 @@
+package com.example.demo.Camera;
+
+public class CameraController {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
